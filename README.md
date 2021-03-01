@@ -1,6 +1,6 @@
 ### Aloha! 🌴
 
-I'm Eric, a front-end developer based in Barcelona 🏡
+I'm Eric, a front-end developer based in a mediterranean coast town near Barcelona 🏡
 
 Currently learning React and messing around coding single-div CSS drawings 🎨
 
